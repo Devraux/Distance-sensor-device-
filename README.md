@@ -1,3 +1,5 @@
+![Visitor Badge](https://github.com/Devraux/Distance_sensor_device.git)
+
 # Dalmierz laserowy
 
 ## Podstawowe informacje
