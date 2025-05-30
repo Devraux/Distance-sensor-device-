@@ -1,4 +1,4 @@
-![Visitor Badge](https://github.com/Devraux/Distance_sensor_device.git)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devraux.Distance_sensor_device)
 
 # Dalmierz laserowy
 
